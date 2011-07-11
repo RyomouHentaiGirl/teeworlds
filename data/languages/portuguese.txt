@@ -85,7 +85,7 @@ Change settings
 == Mudar Configurações
 
 Chat
-== Conversa
+== Chat
 
 Clan
 == Clã
@@ -514,7 +514,7 @@ Shotgun
 == Espingarda
 
 Show chat
-== Mostrar Conversa
+== Mostrar Chat
 
 Show friends only
 == Mostrar Apenas Amigos
@@ -574,13 +574,13 @@ Sudden Death
 == Morte Súbita
 
 Switch weapon on pickup
-== Trocar arma ao pegar
+== Mudar arma ao pegá-las
 
 Team
 == Time
 
 Team chat
-== Conv. com o time
+== Chat do Time
 
 Teeworlds %s is out! Download it at www.teeworlds.com!
 == Teeworlds %s está pronto! Faça o Download em www.teeworlds.com!
